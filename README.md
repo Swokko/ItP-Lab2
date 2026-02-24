@@ -41,6 +41,8 @@ git add .
 git commit -m 'Добавлено описание команды git checkout branch_name'
 git add . 
 git commit -m 'Добавлено описание команды git checkout -b branch_name'
+git add .
+git commit -m 'Добавлено описание команды git remote'
 ```
 **Задание 4**. Дополните файл style.css. Создайте и примените на странице не менее 5-ти стилей. Индексируйте измененные файлы и выполните коммит.
 ```sh

@@ -1,27 +1,77 @@
-.header {
-    justify-content: center;
-    text-align:center;
+body {
+    padding: 0;
+    margin: 0;
+    background-color: #deb887;
 }
+
 ol li {
     list-style-position: inside;
 }
+
+.header {
+    justify-content: center;
+    text-align:center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    background-color: #c2965b;
+}
+
 .exam {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
+.exam > table {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.exam > table > caption {
+    font-size: large;
+    text-shadow: #137100 2px 2px 5px;
+    background: radial-gradient(#4cb437, #6c9663);
+    border: 2px solid #222222
+}
+
+.exam > table > tbody > tr > th {
+    padding-left: 5px;
+    border: 2px dashed #222222;
+}
+
+.exam > table > tbody > tr > td {
+    padding-left: 5px;
+    border: 2px dotted #222222;
+}
+
+.exam > table > tbody > tr > td:first-child, .exam > table > tbody > tr > th:first-child {
+    background-color: #4cb437;
+}
+
+.exam > table > tbody > tr > td:last-child, .exam > table > tbody > tr > th:last-child {
+    background-color: #6c9663;
+}
+
 #table {
     line-height:200%
 }
+
+.exam > h4 {
+    padding-left: 30px;
+}
+
 footer {
-    padding-top: 3px;
+    padding-top: 10px;
     padding-bottom: 3px;
     padding-left:  30px;
     background: #444;
     color: white;
 }
+
 a.foo:hover {
   text-decoration-color: black;
   color: black;
 }
+
 a.foo {
   text-decoration-color: white;
   color: white;
