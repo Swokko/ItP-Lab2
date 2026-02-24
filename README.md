@@ -7,9 +7,13 @@ Student assignment to learn git commands
 
 **Задание 1**. Виберите (локальную) папку для нового проекта и клонируйте в нее данный репозиторий.
 ```sh
-git <команда клонирования>
+git clone https://github.com/teacher-fiit/GitCheatSheet.git
 ```
 **Задание 2**. Перейдите в созданную (клонированную) папку.
+```sh
+~/Projects/University/Introduction To Profession/Lab2 master*
+❯ cd GitCheatSheet/
+```
 
 **Задание 3**. Заполните второй столбец таблицы html-файла. После заполнения каждой ячейки индексируйте измененные файлы и выполняйте коммит.
 ```sh
