@@ -35,6 +35,10 @@ git add .
 git commit -m 'Добавлено описание команды git status'
 git add .
 git commit -m 'Добавлено описание команды git log'
+git add .
+git commit -m 'Добавлено описание команды git branch branch_name'
+git add . 
+git commit -m 'Добавлено описание команды git checkout branch_name'
 ```
 **Задание 4**. Дополните файл style.css. Создайте и примените на странице не менее 5-ти стилей. Индексируйте измененные файлы и выполните коммит.
 ```sh
