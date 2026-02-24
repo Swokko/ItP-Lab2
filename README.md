@@ -26,9 +26,9 @@ git commit -m "Добавлено описание команды git add file"
 git add .
 git commit -m "Добавлено описание команды git add ."
 git add .
-
+git commit -m 'Добавлено описание команды git commit -m "comment"'
 git add .
-
+git commit -m 'Добавлено описание команды git commit -a -m "comment"'
 git add .
 ```
 **Задание 4**. Дополните файл style.css. Создайте и примените на странице не менее 5-ти стилей. Индексируйте измененные файлы и выполните коммит.
