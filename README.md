@@ -19,6 +19,17 @@ git clone https://github.com/teacher-fiit/GitCheatSheet.git
 ```sh
 git add .
 git commit -m "Добавлено описание команды git init"
+git add .
+git commit -m "Добавлено описание команды git clone url"
+git add .
+git commit -m "Добавлено описание команды git add file"
+git add .
+git commit -m "Добавлено описание команды git add ."
+git add .
+
+git add .
+
+git add .
 ```
 **Задание 4**. Дополните файл style.css. Создайте и примените на странице не менее 5-ти стилей. Индексируйте измененные файлы и выполните коммит.
 ```sh
