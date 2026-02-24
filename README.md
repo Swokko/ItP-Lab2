@@ -30,6 +30,9 @@ git commit -m 'Добавлено описание команды git commit -m 
 git add .
 git commit -m 'Добавлено описание команды git commit -a -m "comment"'
 git add .
+git commit -m 'Добавлено описание команды git push url'
+git add .
+git commit -m 'Добавлено описание команды git status'
 ```
 **Задание 4**. Дополните файл style.css. Создайте и примените на странице не менее 5-ти стилей. Индексируйте измененные файлы и выполните коммит.
 ```sh
